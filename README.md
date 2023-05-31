@@ -10,7 +10,7 @@ to derive insights and suggest strategies for better segmentation based on
 the provided criteria.
 
 ## Tools Used 
-- Install various Python libraries including Pandas, NumPy, matplotlib, and Seaborn
+- Utilize various Python libraries including Pandas, NumPy, matplotlib, and Seaborn
 - Import data into Jupyter notebook
 - Change data types and create new dataframes 
 - Perform data consistency checks such as fixing mis-type variables, finding and dealing with missing values, and finding and removing duplicate values
